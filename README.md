@@ -1,5 +1,11 @@
 # ProjectCreator
 
 ## Usage:
-To install the commands, type in '**source commands.sh**' in the terminal.
-Then use '**newproject project_name**' to create a new project folder and repo.
+Replace the info in the curly brackets, then install the commands by using:  
+'**source commands.sh**' in the terminal.
+
+### New project:
+**newproject project_name**
+
+### Remove project: 
+**remproject project_name**
