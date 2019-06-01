@@ -1,7 +1,7 @@
 # ProjectCreator
 
 ## Usage:
-Replace the info in the curly brackets ({ACCESS_TOKEN} AND {USERNAME}), then install the commands by using:  
+Replace the info in the curly brackets ({ACCESS_TOKEN} and {USERNAME}), then install the commands by using:  
 '**source commands.sh**' in the terminal.
 
 ### New project:
